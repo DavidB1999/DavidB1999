@@ -2,9 +2,11 @@
 
 My name is David and I am a Student of Sport Science and passionate about Data Science in football <br>
 
-If you are interested check out my linkedIn (https://www.linkedin.com/in/david-brinkjans) or check out my first paper ever:
+If you are interested check out my linkedIn (https://www.linkedin.com/in/david-brinkjans) 
+<!--or check out my first paper ever:
 
 ![alt text](https://github.com/DavidB1999/DavidB1999/blob/main/images/Paper.JPG)
+-->
 
 
 <!--
