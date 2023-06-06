@@ -1,6 +1,6 @@
 ### Hi, Welcome to my profile. 👋
 
-My name is David and i am a Student of Sport Science and passionate about Data Science in football <br>
+My name is David and I am a Student of Sport Science and passionate about Data Science in football <br>
 
 If you are interested check out my linkedIn (https://www.linkedin.com/in/david-brinkjans) or check out my first paper ever:
 
