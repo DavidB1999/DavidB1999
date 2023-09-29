@@ -10,6 +10,7 @@ Currently available:
 + **SOCCER22** - Code for second stage of the research project on the Succcess-Score (submitted); The code is representative of and based on my work for my first publication on the Success-Score as well | https://doi.org/10.2478/ijcss-2022-0009
 + **SOCCER23** - Code for my Master Thesis and current stage of the associated research project 
 + **Success-Score** - Code for the SOCCER©-independent calculation of Success-Scores
++ **My_Football_Analytics** - Collection of scripts and methods I have worked on over the years in connection with football data -  mostly visualizations
 
 Feel free to reach out if you have input, feedback or questions! 👋
 <!--or check out my first paper ever:
