@@ -11,8 +11,19 @@ Currently available:
 + **SOCCER23** - Code for my Master Thesis and current stage of the associated research project 
 + **Success-Score** - Code for the SOCCER©-independent calculation of Success-Scores
 + **My_Football_Analytics** - Collection of scripts and methods I have worked on over the years in connection with football data -  mostly visualizations
++ **KPI_App** - My first time working with *streamlit* (used dash & shiny previoulsy), building an interactive web application that allows to compare players in a Radar chart
 
 Feel free to reach out if you have input, feedback or questions! 👋
+
+<br>
+
+<img src="https://github.com/DavidB1999/My_Football_Analytics/blob/main/Position_data/PitchControl/Pitch_Control_Plot.png" width="600" />
+<br>
+<img src="https://github.com/DavidB1999/KPI_App/blob/main/WebApp.jpg" width="600" />
+
+
+
+
 <!--or check out my first paper ever:
 
 ![alt text](https://github.com/DavidB1999/DavidB1999/blob/main/images/Paper.JPG)
