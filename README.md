@@ -2,7 +2,7 @@
 
 My name is David and I am a Student of Sport Science and passionate about Data Science (in football) <br>
 
-If you are interested check out my linkedIn (https://www.linkedin.com/in/david-brinkjans)  <br>
+If you are interested check out my LinkedIn (https://www.linkedin.com/in/david-brinkjans)  <br>
 
 Some of my work is available here on my GitHub. Anyone who is interested can check out my code. <br>
 Currently available:
