@@ -23,11 +23,12 @@ Feel free to reach out if you have input, feedback or questions! 👋
 <br>
 <br>
 <img src="https://github.com/DavidB1999/KPI_App/blob/main/WebApp.jpg" width="600" />
-https://github.com/DavidB1999/KPI_App <br>
+[https://github.com/DavidB1999/KPI_App <br] <br>
 <br>
 <br>
-
-
+<br>
+<img src="https://github.com/DavidB1999/SOCCER23/blob/main/Success-Scores.png" width="600" />
+[https://doi.org/10.1515/ijcss-2017-0005, https://github.com/DavidB1999/SOCCER22, https://github.com/DavidB1999/SOCCER23, https://github.com/DavidB1999/Success-Score]
 
 
 <!--or check out my first paper ever:
