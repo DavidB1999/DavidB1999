@@ -14,6 +14,7 @@ Currently available:
 + **My_Football_Analytics** - Collection of scripts and methods I have worked on over the years in connection with football data -  mostly visualizations
 + **KPI_App** - My first time working with *streamlit* (used dash & shiny previoulsy), building an interactive web application that allows to compare players in a Radar chart
 + **PowerBI** - Some minor projects I worked on with Power BI
++ **dsdn/Udacity** - Project repositories as part of the Udacity Data Science Nanodegree
 
 Feel free to reach out if you have input, feedback or questions! 👋
 
